@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding operating systems
 - 🌱 I’m currently learning nothing right now
 - 💞️ I’m looking to collaborate on not much
-- 📫 How to reach me: Email me at evanrecupido@gmail.com
+- 📫 How to reach me: no.
 
 <!---
 enavr/enavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
